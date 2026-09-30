@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+.venv
+__pycache__
+storage
+*.log
+.env*
+.playwright-mcp
+docs
